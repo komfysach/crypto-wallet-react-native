@@ -1,21 +1,26 @@
 export const holdings = [
     {
         id: "bitcoin",
-        qty: 888
+        qty: 18
     },
     {
         id: "ethereum",
-        qty: 188
+        qty: 88
     },
     {
         id: "dogecoin",
-        qty: 88888
+        qty: 8888
+    },
+    {
+        id: "ripple",
+        qty: 10000
     }
+
 ]
 
 export const profile = {
     id: 8888888,
-    email: "byprogrammers@gmail.com",
+    email: "sach@getkomfy.net",
 }
 
 export const settings = {
